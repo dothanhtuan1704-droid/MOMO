@@ -16,6 +16,7 @@ data/piro_tr.parquet
 data/piro_te.parquet
 data/ops_queue_samples.parquet
 data/external_test/
+data/real_world_test/
 
 # Obsolete initial prototype bundle (superseded by paysim_bundle.joblib)
 models/fraud_bundle.joblib
@@ -26,3 +27,4 @@ train_pipeline.py
 Thumbs.db
 .vscode/
 .idea/
+
